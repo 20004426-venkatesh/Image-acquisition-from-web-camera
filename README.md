@@ -32,33 +32,7 @@ Anaconda - Python 3.7
 ### Developed By:
 ### Register No:
 
-## i) Write the frame as JPG file
 
-
-
-
-## ii) Display the video
-
-
-
-
-## iii) Display the video by resizing the window
-
-
-
-
-
-## iv) Rotate and display the video
-
-
-
-
-
-
-
-
-
-```
 ## Output
 
 ### i) Write the frame as JPG image
