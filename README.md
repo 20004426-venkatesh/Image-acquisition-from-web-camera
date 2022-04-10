@@ -13,6 +13,20 @@ iv) Rotate and display the video
 Anaconda - Python 3.7
 ## Algorithm
 
+Step 1:
+Use VideoCapture(0) to access web camera
+
+Step 2:
+Use imread to read the video or image
+
+Step 3:
+Use imwrite to save the image
+
+Step 4:
+Use imshow to show the video
+
+Step 5:
+End the program and close the output video windows by pressing 'q'.
 ### Program:
 ``` Python
 ### Developed By:GANAPATHI VENKATESH
@@ -26,7 +40,7 @@ import cv2
 import numpy as np
 cap=cv2.VideoCapture(0)
 ret,frame=cap.read()
-cv2.imwrite("KB.jpg",frame)
+cv2.imwrite("venky.jpg",frame)
 cap.release()
 cv2.destroyAllWindows()
 
