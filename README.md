@@ -121,7 +121,7 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![image4](https://github.com/20004426-venkatesh/Image-acquisition-from-web-camera/blob/main/exp%202.4.jpg)
+
 
 
 
