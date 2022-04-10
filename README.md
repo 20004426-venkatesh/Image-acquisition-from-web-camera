@@ -12,22 +12,8 @@ iv) Rotate and display the video
 ## Software Used
 Anaconda - Python 3.7
 ## Algorithm
-### Step 1:
-<br>
 
-### Step 2:
-<br>
-
-### Step 3:
-<br>
-
-### Step 4:
-<br>
-
-### Step 5:
-<br>
-
-## Program:
+### Program:
 ``` Python
 ### Developed By:GANAPATHI VENKATESH
 ### Register No:212220230018
