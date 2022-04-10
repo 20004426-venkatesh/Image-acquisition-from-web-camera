@@ -112,8 +112,7 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-</br>
-</br>
+![image2](https://github.com/20004426-venkatesh/Image-acquisition-from-web-camera/blob/main/exp%202.2.jpg)
 
 
 ### iii) Display the video by resizing the window
